@@ -1,0 +1,6 @@
+Put your professor email here. And in place of the professor name, put {}
+For example:
+
+Dear Professor {},
+
+...

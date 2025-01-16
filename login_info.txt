@@ -1,0 +1,1 @@
+Put your email login info here for your bronx science email. On the first line put your email and on the second line put the password.

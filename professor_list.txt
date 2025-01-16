@@ -1,0 +1,6 @@
+List your professors on each line. For instance:
+
+profemail@university.edu,"Professor Last Name"
+...
+
+MAKE SURE THAT THERE ARE NO SPACES BEFORE AND AFTER THE COMMA
