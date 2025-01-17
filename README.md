@@ -24,4 +24,10 @@ Open up the extracted folder, which doesn't have a zipper on the icon. Inside yo
 
 ## Running the program
 
-Once you have filled out all the text files, open up 
+Once you have filled out all the text files, open up the terminal.
+Write `cd downloads` and press enter. Then write `cd Automated_Emails-main` and press enter. `Automated_Emails-main` is what the folder of this repository is saved as if you just download it as I have stated. If you renamed it use that name.
+![image](https://github.com/user-attachments/assets/a5ffe55e-1960-4209-bd2c-bcd829ba9abf)
+
+Now write `python program.py` and press enter. Wait for the program to stop running and print out `emails sent` in the console. Your emails have now been sent.
+
+## Let me know if you have any problems running the program.
