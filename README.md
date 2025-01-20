@@ -9,7 +9,7 @@ You need python for this. Download from the website [python.org](https://www.pyt
 
 ## Enable LessSecureApps setting
 
-In your bronx science enable, click the following link and enable the setting.
+In your bronx science email, click the following link and enable the setting.
 https://www.google.com/settings/security/lesssecureapps
 
 ## Download the code
