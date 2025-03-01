@@ -24,7 +24,7 @@ def send_email():
             msg['To'] = p_email
             smtp_server.sendmail(data_table["username"], p_email, msg.as_string())
 
-    print("emails sent")
+    print("Number of Emails Sent:", len(data_table["professors"])
 
 # Fix LOGIN: https://www.google.com/settings/security/lesssecureapps 
 send_email()
